@@ -15,7 +15,7 @@ pipeline{
             }
         }
     }
-    stage('Setting up Virtual Environment and Installing dependancies'){
+        stage('Setting up Virtual Environment and Installing dependancies'){
             steps{
                 script{
                     echo 'Setting up Virtual Environment and Installing dependancies...'
@@ -27,5 +27,5 @@ pipeline{
                     '''
                 }
             }
-    }    
+        }
 }
