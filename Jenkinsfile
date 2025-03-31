@@ -43,7 +43,7 @@ pipeline{
 
                         gcloud auth configure-docker --quiet
                         
-                        DOCKER_BUILDKIT=0 docker build --dns=8.8.8.8 -t gcr.io/${GCP_PROJECT}/ml-project:latest .
+                        docker build -t gcr.io/${GCP_PROJECT}/ml-project:latest .
 
                         docker push gcr.io/${GCP_PROJECT}/ml-project:latest 
 
