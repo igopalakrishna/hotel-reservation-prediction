@@ -59,7 +59,7 @@ A complete end-to-end MLOps project that predicts whether a hotel reservation wi
 - **App**: Flask-based prediction UI.
 - **Deployment**: Jenkins pipeline builds Docker image and deploys to GCP Cloud Run.
 
-## ⚙MLOps Workflow
+## MLOps Workflow
 
 1. **Database Setup**: Upload dataset to Google Cloud Storage bucket.
 2. **Project Setup**: Virtual environment, logging, exception handling, folder structure.
