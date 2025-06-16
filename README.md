@@ -180,8 +180,8 @@ python app.py
 
 ## Connect With Me
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)
-- GitHub: [Your GitHub](https://github.com/your-username)
+- LinkedIn: [Gopala Krishna Abba (Graduate Research Assistant @ DICE Lab NYU)](https://linkedin.com/in/igopalakrishna)
+- GitHub: [GitHub; igopalakrishna](https://github.com/igopalakrishna)
 
 ---
 
